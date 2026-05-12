@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307465303257",
+    "project_id": "movie-verse-3c1b5",
+    "storage_bucket": "movie-verse-3c1b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307465303257:android:771e7eee917de0add27ac8",
+        "android_client_info": {
+          "package_name": "com.example.smollan_movie_verse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkekad8gtHGJjEkceGA-oQPuVn1whwajE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
