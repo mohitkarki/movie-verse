@@ -24,6 +24,5 @@ A Flutter-based movie browsing application featuring API integration, Provider s
 - Provider
 - Hive
 - REST API
-- TMDB API
 
 ---
